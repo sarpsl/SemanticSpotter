@@ -17,3 +17,6 @@ This project provides a solution for parsing, indexing, and querying information
 
 ## Contact
 Created by Syed Abdul Rahim [@sarpsl] - feel free to contact me!
+
+## GitHub
+https://github.com/sarpsl/SemanticSpotter
